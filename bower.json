@@ -1,0 +1,23 @@
+{
+  "name": "angular-router-migration",
+  "version": "0.0.0",
+  "homepage": "https://github.com/scotch-io/angular-router-migration",
+  "authors": [
+    "Chris Sevilleja <chris@scotch.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": "public/libs"
+  },
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-ui-router": "~0.2.14"
+  }
+}
